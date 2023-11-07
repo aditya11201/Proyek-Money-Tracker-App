@@ -298,7 +298,7 @@ otherwise you'll get an error message like this
 
 
 ## Check Submit Permission project
-## Thanks  😊👋😁
+## REFERENCE TUTOR https://github.com/suryaLuqman/submission2-Proyek-Money-Tracker-App.git
   
 > ### Don't forget to delete or deactivate services that are no longer needed to prevent additional fees/billing from being required if they are no longer used. 
 > ### Here are the steps you can take to Clean Up:
